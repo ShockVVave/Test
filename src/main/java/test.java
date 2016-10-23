@@ -6,5 +6,8 @@ package main.java;
 class alfa {
     static public void main(String Arg[]) {
         System.out.println("hello wok");
+
+
+
     }
 }
